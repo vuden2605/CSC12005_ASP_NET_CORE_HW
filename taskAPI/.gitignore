@@ -1,0 +1,35 @@
+# Build output
+bin/
+obj/
+out/
+publish/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# VS Code settings folder
+.vscode/
+
+# Rider IDE settings
+.idea/
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# ASP.NET Core runtime & logs
+*.db
+*.log
+
+# Scaffolding
+ScaffoldingReadMe.txt
+
+# OS files
+.DS_Store
+Thumbs.db
