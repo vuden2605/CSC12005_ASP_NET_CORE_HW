@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\taskAPI\\taskAPI.csproj": {}
+    "D:\\22120440\\taskAPI\\taskAPI.csproj": {}
   },
   "projects": {
-    "D:\\taskAPI\\taskAPI.csproj": {
+    "D:\\22120440\\taskAPI\\taskAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\taskAPI\\taskAPI.csproj",
+        "projectUniqueName": "D:\\22120440\\taskAPI\\taskAPI.csproj",
         "projectName": "taskAPI",
-        "projectPath": "D:\\taskAPI\\taskAPI.csproj",
+        "projectPath": "D:\\22120440\\taskAPI\\taskAPI.csproj",
         "packagesPath": "C:\\Users\\ACER\\.nuget\\packages\\",
-        "outputPath": "D:\\taskAPI\\obj\\",
+        "outputPath": "D:\\22120440\\taskAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ACER\\AppData\\Roaming\\NuGet\\NuGet.Config",
